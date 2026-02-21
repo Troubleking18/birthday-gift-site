@@ -1,19 +1,40 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+🎉 Birthday Card Website
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple and responsive digital birthday card built using HTML and CSS.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+🚀 How to Run
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Download or clone the repository.
 
-Happy Coding!
+Open index.html in your browser.
+
+No installation or dependencies required.
+
+✨ Features
+
+🎂 Birthday message layout
+
+🎈 Celebration emojis
+
+🎨 Styled text and colors
+
+📱 Responsive design
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+📁 Project Structure
+birthday-card/
+│
+├── images/
+├── index.html
+└── styles.css
+👤 Author
+
+Siddhartha Mahanty
+B.Tech CSE | Aspiring Full Stack Developer
+
+Happy Coding 🎉
